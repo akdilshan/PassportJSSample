@@ -1,0 +1,25 @@
+{
+  "name": "passportjssample",
+  "version": "1.0.0",
+  "description": "sample express app secured with passportJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akdilshan/PassportJSSample.git"
+  },
+  "author": "A.K Dilshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akdilshan/PassportJSSample/issues"
+  },
+  "homepage": "https://github.com/akdilshan/PassportJSSample#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^1.0.0"
+  }
+}
