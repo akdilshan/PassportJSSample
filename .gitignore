@@ -2,3 +2,5 @@
 config/googlesecret\.js
 
 node_modules/
+
+config/keys\.js
